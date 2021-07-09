@@ -1,8 +1,8 @@
-# TRAVEL AGENCY
+# PORTFOLIO LANDING PAGE
 #### Moringa School Project
 #### By **Ann-Victoria**
 ## Description
-A school project on creating a webpage for a travel agency using HTML and CSS.
+A portfolio landing page 
 ## Setup/Installation Requirements
 * Open on preferred browser
 * link 
