@@ -3,9 +3,14 @@ img {
   width: 300px;
 }
 body {
-  background-color: black;
+  background-color: peachpuff;
 }
-
+#bold {
+  font-style: bold;
+}
+#italic {
+  font-style: italic;
+}
 
 h1 {
   color: aquamarine;
@@ -16,7 +21,7 @@ h1 {
   text-align: right;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: larger;
-  color: lightcoral;
+  color: turquoise;
   
 }
 h2 {
@@ -24,11 +29,15 @@ h2 {
   text-align: center;
 }
 p {
-  color: salmon;
+  color: skyblue;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h3 {
   color:blue;
   text-align: center;
   font-style: italic;
+}
+ol { 
+  color: navy;
+  font-family: fantasy;
 }
